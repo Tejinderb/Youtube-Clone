@@ -37,7 +37,7 @@ function Header() {
         <AiFillVideoCamera className="header__icon" />
         <IoIosNotifications className="header__icon" />
         <Avatar
-          src="https://avatars.githubusercontent.com/u/59795822?v=4"
+          src="https://avatars.githubusercontent.com/u/78414327?v=4"
           round={true}
           size={30}
         />
